@@ -47,6 +47,7 @@
     <Compile Include="GoF\Creational\Builder\ImmutableBuilder.cs" />
     <Compile Include="GoF\Creational\FabricMethod\CommonFabricMethod.cs" />
     <Compile Include="GoF\Creational\FabricMethod\StaticFabricMethod.cs" />
+    <Compile Include="GoF\Structural\Adapter\SqlServerLogSaverAdaper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
